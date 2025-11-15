@@ -1,56 +1,33 @@
-<p align="center">
-  <img src="[URL-DE-LA-IMAGEN-AQUI](https://github.com/VPWEB/CrossFit-BOXVIP-Website/blob/main/portadaBOXVIP.png)" width="800px">
-</p>
-
-
-# CrossFit-BOXVIP-Website
+🏋️‍♂️ CrossFit-BOXVIP-Website
 
 Proyecto web realizado para la asignatura de **Lenguaje de Marcas** (Ciclo Superior DAM).  
 Representa la página de un centro ficticio de entrenamiento funcional llamado **BOX VIP – Training Center**.
 
-## 📌 Descripción  
+📖 Descripción  
 Esta web presenta información del box, sus servicios, formulario de contacto, horarios y propuestas promocionales. Está diseñada con una estructura clara, navegación sencilla y estilo funcional orientado a la práctica de maquetación web.
 
-## 🛠️ Tecnologías utilizadas  
-- **HTML5**
-- **CSS3**
-- **JavaScript** (interacciones básicas si aplica)
-- **Git / GitHub Pages**
+🚀 Demo Online
+🔗 [Ver la página en vivo](https://vpweb.github.io/CrossFit-BOXVIP-Website/)
 
-## 📁 Estructura del proyecto  
-/ (raíz)
-├─ index.html
-├─ contacto.html
-├─ servicios.html
-├─ css/
-│ └─ styles.css
-├─ img/
-│ └─ (imágenes del proyecto)
-└─ README.md
+🎨 Vista previa
+![Vista previa](portadaBOXVIP.png)
 
+🛠️ Tecnologías utilizadas
 
-## Objetivos del proyecto  
-- Practicar la maquetación web con HTML5 y CSS3.  
-- Crear un diseño responsive adaptable a varios dispositivos.  
-- Organizar adecuadamente archivos y carpetas.  
-- Publicar un proyecto mediante GitHub Pages.
+- HTML5: estructura general.
+- CSS3: estilos, diseño y maquetación.
+(Opción futura: añadir JS básico para mejorar la interactividad.)
 
-## Visualización  
-Puedes ver la web funcionando aquí:  
-https://vpweb.github.io/CrossFit-BOXVIP-Website/
+📝 Notas
 
-Para abrirlo localmente:
-git clone https://github.com/vpweb/CrossFit-BOXVIP-Website.git
-cd CrossFit-BOXVIP-Website
-open index.html
+Este proyecto forma parte del aprendizaje de desarrollo web en Lenguaje de Marcas.
+Aunque utiliza HTML y CSS, mi enfoque principal dentro de DAM está orientado a:
 
-## Aprendizaje obtenido
-- Semántica de HTML5
-- Diseño responsive
-- Uso de estilos y estructura clara en CSS
-- Publicación web con GitHub Pages
+- Python
+- Java
+- MySQL
+- Odoo
+- Unreal Engine (proyectos personales)
 
-## Nota
-
-Este proyecto se desarrolló como práctica de Lenguaje de Marcas. Aunque refleja conocimientos de maquetación web, mi perfil principal está orientado a Python, Java, bases de datos, Odoo, entre otros.
+  
 
