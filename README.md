@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[URL-DE-LA-IMAGEN-AQUI](https://github.com/VPWEB/CrossFit-BOXVIP-Website/blob/main/portadaBOXVIP.png)" width="800px">
+</p>
+
+
 # CrossFit-BOXVIP-Website
 
 Proyecto web realizado para la asignatura de **Lenguaje de Marcas** (Ciclo Superior DAM).  
