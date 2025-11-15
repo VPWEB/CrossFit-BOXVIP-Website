@@ -1,4 +1,4 @@
-🏋️‍♂️ CrossFit-BOXVIP-Website
+🏋![Vista previa](faviconBV.png) CrossFit-BOXVIP-Website
 
 Proyecto web realizado para la asignatura de **Lenguaje de Marcas** (Ciclo Superior DAM).  
 Representa la página de un centro ficticio de entrenamiento funcional llamado **BOX VIP – Training Center**.
